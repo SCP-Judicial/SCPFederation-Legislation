@@ -4,14 +4,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'Daxrentha\'s SCPF documentation',
-  tagline: 'This site contains all public documentation for Daxrentha\'s SCPF',
+  title: 'ApolloConX\'s SCPF documentation',
+  tagline: 'This site contains all public documentation for ApolloConX\'s SCPF',
   url: 'https://legislation.scpf.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'SCPF-Judicial', // Usually your GitHub org/user name.
+  organizationName: 'NodeCaesar', // Usually your GitHub org/user name.
   projectName: 'legislation', // Usually your repo name.
   trailingSlash: false,
 
@@ -22,18 +22,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/SCPF-Judicial/legislation/edit/dev/',
+          editUrl: 'https://github.com/NodeCaesar/legislation/edit/dev/',
           routeBasePath: '/'
         },
         blog: {
           path: 'blog',
           editUrl: ({locale, blogDirPath, blogPath}) => {
-            return `https://github.com/SCPF-judicial/legislation/edit/master/${blogDirPath}/${blogPath}`;
+            return `https://github.com/NodeCaesar/legislation/edit/master/${blogDirPath}/${blogPath}`;
           },
           postsPerPage: 5,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Daxrentha's Special Containment Procedures Foundation`,
+            copyright: `Copyright © ${new Date().getFullYear()} ApolloConX's Special Containment Procedures Foundation`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
@@ -88,7 +88,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Foundation Code',
           }, */
           {
-            href: 'https://www.roblox.com/groups/4606577',
+            href: 'https://www.roblox.com/groups/5458485',
             label: 'Group',
             position: 'right',
           },
@@ -111,11 +111,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/pathos',
+                href: 'https://discord.gg/vHGvTZFfQb',
               },
               {
                 label: 'Group',
-                href: 'https://www.roblox.com/groups/4606577',
+                href: 'https://www.roblox.com/groups/5458485',
               },
             ],
           },
@@ -124,7 +124,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Ethics Committee Public Discord',
-                href: 'https://discord.gg/ttjPqT5DDz',
+                href: 'https://discord.gg/QKqBMDTknm',
               },
             ],
           },
