@@ -1,20 +1,20 @@
 ---
-title: Administrator_Mr group transfer
-authors: [Ulferno]
+title: Telexty's Foundation merge
+authors: [ApolloConX]
 tags: [notice]
 ---
 
-Recently with the closure of Administrator_Mr's Special Containment Procedures Foundation, both Overseer Councils have come to an agreement to offer members in Administrator_Mr's Foundation a position in ApolloConX's Foundation.
+Recently with the closure of Telexty's Special Containment Procedures Foundation, both Overseer Councils have come to an agreement to offer members in Telexty's Foundation a position in ApolloConX's Foundation.
 
-Please see below for instructions on how to transfer your rank, ensure you are in [our group](https://www.roblox.com/groups/4606577/SCPF-Special-Containment-Procedures-Foundation#!/about).
+Please see below for instructions on how to transfer your rank, ensure you are in [our group](https://www.roblox.com/groups/5458485/SCPF-Special-Containment-Procedures-Foundation#!/about).
 
-https://discord.gg/pathos
+https://discord.gg/SCPFoundation
 
 ## Security Clearances
 
-If you are a Level-0 please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Security Class-0.
+If you are a Level-0 please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Level-0.
 
-If you are a Level-1 or above please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Security Class-1.
+If you are a Level-1 or above please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Level-1.
 
 ## Scientific, Security, Medical and Engineering
 
@@ -35,4 +35,4 @@ Please fill out [this form](https://forms.gle/fTzZnfkGb97y59QU6). You will be co
 
 ## Manufacturing
 
-If you are a developer **currently within Administrator_Mr's Foundation** then please contact unix#1784 for an interview, if you wish to join our MaD.
+If you are a developer **currently within Telexty's Foundation** then please contact MuffingGaming#0001 for an interview, if you wish to join our MaD.
