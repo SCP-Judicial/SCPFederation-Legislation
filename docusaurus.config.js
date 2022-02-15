@@ -22,7 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/NodeCaesar/legislation/edit/dev/',
+          editUrl: 'https://github.com/NodeCaesar/legislation/edit/master/docs/supreme/conclusion.md',
           routeBasePath: '/'
         },
         blog: {
