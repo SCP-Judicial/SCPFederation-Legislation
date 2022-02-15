@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Public documentation for Daxrentha's SCPF <head />">
+      description="Public documentation for ApolloConX's SCPF <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -4,7 +4,7 @@ authors: [Ulferno]
 tags: [notice]
 ---
 
-Recently with the closure of Administrator_Mr's Special Containment Procedures Foundation, both Overseer Councils have come to an agreement to offer members in Administrator_Mr's Foundation a position in Daxrentha's Foundation.
+Recently with the closure of Administrator_Mr's Special Containment Procedures Foundation, both Overseer Councils have come to an agreement to offer members in Administrator_Mr's Foundation a position in ApolloConX's Foundation.
 
 Please see below for instructions on how to transfer your rank, ensure you are in [our group](https://www.roblox.com/groups/4606577/SCPF-Special-Containment-Procedures-Foundation#!/about).
 

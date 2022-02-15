@@ -129,7 +129,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Daxrentha's Special Containment Procedures Foundation`,
+        copyright: `Copyright © ${new Date().getFullYear()} ApolloConX's Special Containment Procedures Foundation`,
       },
       prism: {
         theme: lightCodeTheme,
