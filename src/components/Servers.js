@@ -22,7 +22,7 @@ function renderServers(servers) {
 			height: "3em"
 		}} role="alert">
 			<p><strong>Server {capitalizeFirstLetter(converter.toWords(serverNumber+1))}</strong> - {server.playerCount} players { serverNumber === 1 ? (<span class="badge badge--primary">Primary</span>) : "" }</p>
-			<button onClick={() => window.open("https://www.roblox.com/games/4572543057/SCI-Pathos-III", "_blank")} class="button button--success">Join</button>
+			<button onClick={() => window.open("https://www.roblox.com/games/9424052037/Pathos-III-Reborn", "_blank")} class="button button--success">Join</button>
 		</div>))
 		components.push((<br/>))
 	}
