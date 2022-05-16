@@ -7,31 +7,31 @@ Foundation Personnel are only able to join a maximum of two departments. In addi
 
 ## Major Departments
 ---
-### [Security Department](https://www.roblox.com/groups/4606666/SCPF-Security-Department)
+### [Security Department](https://www.roblox.com/groups/5806054/SCPF-Security-Department)
 The Security Department is responsible for ensuring the safety & security of all personnel operating in our facilities. Security personnel are the first responders to any situation that occurs in our facilities, such as riots, hostile raids, natural disasters, and more. They manage all frontline situations.
 
-### [Scientific Department](https://www.roblox.com/groups/4606685/SCPF-Scientific-Department)
+### [Scientific Department](https://www.roblox.com/groups/5806029/SCPF-Scientific-Department)
 The Scientific Department is responsible for researching the anomalies held in containment at the Foundation to keep them in containment and concealed from the eyes of the public. This department is also responsible for deciding the classifications of an SCP.
 
-### [Mobile Task Forces](https://www.roblox.com/groups/4606663/SCPF-Mobile-Task-Forces)
+### [Mobile Task Forces](https://www.roblox.com/groups/5806095/SCPF-Mobile-Task-Forces)
 The Foundation's line of work requires a large number of highly specialized professionals. This is usually related to anomalies that require much effort and an unorthodox approach for containment. To address this, Mobile Task Forces are formed. MTFs are teams of varying sizes that specialize in specific roles or respond to specific situations.
 
 
 ## Minor Departments
 ---
-### [Ethics Committee](https://www.roblox.com/groups/4609731/SCPF-Ethics-Committee)
+### [Ethics Committee](https://www.roblox.com/groups/5806118/SCPF-Ethics-Committee)
 The Ethics Committee is responsible for providing proper ethical conduct within the Foundation’s activities. They are able to enforce, protect, create, and legislate all regulations that the Foundation requires for proper operation.
 
-### [Medical Department](https://www.roblox.com/groups/4606695/SCPF-Medical-Department)
+### [Medical Department](https://www.roblox.com/groups/5806110/SCPF-Medical-Department)
 The Medical Department was created to ensure the welfare and health of our Foundation remains stable. Members of the Medical Department, due to the Foundation's environment, often handle very interesting issues with our personnel health, such as intensive burns, mass trauma, and other contagious diseases.
 
-### [Department of Diplomatic Affairs](https://www.roblox.com/groups/6180576/SCPF-Department-of-Diplomatic-Affairs)
+### [Department of Diplomatic Affairs](https://www.roblox.com/groups/5806080/SCPF-Department-of-Diplomatic-Affairs)
 The Department of Diplomatic Affairs is responsible for a wide spectrum of operations: planting disinformation, eliminating traces of SCP (both objects and the Foundation's) activity, Class-D enlistment, and recruiting new employees from military and civil institutions.
 
-### [Engineering & Technical Services](https://www.roblox.com/groups/6388195/SCPF-Engineering-Technical-Services)
+### [Engineering & Technical Services](https://www.roblox.com/groups/6303767/SCPF-Engineering-Technical-Services)
 The Engineering & Technical Services department is responsible for ensuring the upkeep of all installation technology. This department ensures the technical satisfaction of all on-site generators and power systems, as well as general facility status. The department also manages the Dark Matter Reactor & Orbital Cannon.
 
-### [Logistics Department](https://www.roblox.com/groups/7793808/SCPF-Logistics-Department)
+### [Logistics Department](https://www.roblox.com/groups/5806014/SCPF-Logistics-Department)
 The Logistics Department is responsible for handling transport of materials across various sites, installations, and containment outposts of the SCP Foundation.
 
 ### [Anomaly Actors](https://www.roblox.com/groups/5894237/SCPF-Anomaly-Actors)
