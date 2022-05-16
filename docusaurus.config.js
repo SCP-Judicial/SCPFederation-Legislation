@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'ApolloConX\'s SCPF documentation',
-  tagline: 'This site contains all public documentation for ApolloConX\'s SCPF',
+  title: 'FacilityEngineer\'s SCPF documentation',
+  tagline: 'This site contains all public documentation for FacilityEngineer\'s SCPF',
   url: 'https://legislation.scpf.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -33,7 +33,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           postsPerPage: 5,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} ApolloConX's Special Containment Procedures Foundation`,
+            copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's Special Containment Procedures Foundation`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
@@ -88,7 +88,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Foundation Code',
           }, */
           {
-            href: 'https://www.roblox.com/groups/5458485',
+            href: 'https://www.roblox.com/groups/5647083',
             label: 'Group',
             position: 'right',
           },
@@ -111,11 +111,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/vHGvTZFfQb',
+                href: 'https://discord.gg/Tcd9VgcvYb',
               },
               {
                 label: 'Group',
-                href: 'https://www.roblox.com/groups/5458485',
+                href: 'https://www.roblox.com/groups/5647083',
               },
             ],
           },
@@ -129,7 +129,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ApolloConX's Special Containment Procedures Foundation`,
+        copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's Special Containment Procedures Foundation`,
       },
       prism: {
         theme: lightCodeTheme,
