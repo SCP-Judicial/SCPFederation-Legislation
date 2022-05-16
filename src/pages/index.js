@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="homepage-title">legislation.scpf.io</h1>
+          <h1 className="homepage-title">SCP: Federation Public Documentation</h1>
           <p className="homepage-subtitle">{siteConfig.tagline}</p>
         </div>
       </header>
