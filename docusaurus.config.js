@@ -56,9 +56,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         respectPrefersColorScheme: true
       },
       navbar: {
-        title: 'SCPF',
+        title: 'SCP: Federation',
         logo: {
-          alt: 'SCPF Logo',
+          alt: 'SCP: Federation Logo',
           src: 'img/scpf.png',
         },
         items: [
