@@ -49,7 +49,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadatas: [
-        { property: 'og:image', content: 'https://legislation.scpf.io/img/scpf.png' },
+        { property: 'og:image', content: 'https://legislation.scpfofficial.com/img/scpf.png' },
       ],
       colorMode: {
         defaultMode: 'dark',
