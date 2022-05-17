@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Public documentation for FacilityEngineer's SCPF <head />">
+      description="Public Documentation for the SCP: Federation <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

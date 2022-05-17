@@ -4,9 +4,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'FacilityEngineer\'s SCPF documentation',
-  tagline: 'This site contains all public documentation for FacilityEngineer\'s SCPF',
-  url: 'https://legislation.scpf.io',
+  title: 'SCP: Federation Public Documentation',
+  tagline: 'This site contains all public documentation for FacilityEngineer\'s SCP: Federation',
+  url: 'https://legislation.scpfofficial.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -33,7 +33,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           postsPerPage: 5,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's Special Containment Procedures Foundation`,
+            copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's SCP: Federation & Apollo Entertainment`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
@@ -129,7 +129,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's Special Containment Procedures Foundation`,
+        copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's SCP: Federation & Apollo Entertainment`,
       },
       prism: {
         theme: lightCodeTheme,
