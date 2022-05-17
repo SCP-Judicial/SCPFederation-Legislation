@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklegislation=self.webpackChunklegislation||[]).push([[7700],{4532:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/notice","name":"notice","count":1,"permalink":"/blog/tags/notice"}')}}]);

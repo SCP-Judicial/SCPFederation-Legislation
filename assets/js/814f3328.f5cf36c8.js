@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklegislation=self.webpackChunklegislation||[]).push([[2535],{5641:function(t){t.exports=JSON.parse('{"title":"All our posts","items":[{"title":"Administrator_Mr group transfer","permalink":"/blog/2021/10/31/adminmr-transfer"}]}')}}]);
