@@ -34,7 +34,7 @@ export default function Servers(props) {
 
 	useEffect(()=>{
 		let timer;
-		axios.get('https://dev.api.scpf.io/public/publicServers').then((response) => {
+		axios.get('https://dev.api.scpfofficial.com/public/publicServers').then((response) => {
 			if (response && response.data) {
 				setServers(response.data.result);
 			}
